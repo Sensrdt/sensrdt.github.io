@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "../Assets/Sridip-Dutta-Resume-19072022.pdf";
+  "https://github.com/Sensrdt/sridip/blob/master/src/Assets/Sridip-Dutta-Resume-19072022.pdf";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
