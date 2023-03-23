@@ -55,14 +55,14 @@ function Home() {
                   <p style={{ textAlign: "justify" }}>
                     <span style={{ fontSize: "25px", textDecoration: "underline" }} className="purple">skills </span>
                     <br />
-                    go, vue, gcp, psql, timescaledb, node, react, mongodb
+                    go, vue, gcp, aws, psql, timescaledb, node, react, mongodb, jenkins, gpt
                     <br />
                   </p>
 
                   <p style={{ textAlign: "justify" }}>
                     <span style={{ fontSize: "25px", textDecoration: "underline" }} className="purple">tools </span>
                     <br />
-                    git, postman, logdna, linux, segment
+                    git, github actions, postman, logdna, linux, segment, posthog, hubspot, webflow
                     <br />
                   </p>
                 </blockquote>

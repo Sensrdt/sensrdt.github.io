@@ -38,15 +38,11 @@ function NavBar() {
       className={navColour ? "sticky" : "navbar"}
     >
       <Container>
-        <Navbar.Brand href="/" className="d-flex">
+        <Navbar.Brand className="d-flex">
           {/* <img src={logo} className="img-fluid logo" alt="brand" /> */}
-          <Nav className="ms-auto" defaultActiveKey="#home">
             <Nav.Item>
-              <Nav.Link as={Link} to="/" onClick={() => updateExpanded(false)}>
-                <AiOutlineHome style={{ marginBottom: "2px" }} /> home
-              </Nav.Link>
+              software guy interested in startups
             </Nav.Item>
-          </Nav>
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
@@ -59,17 +55,8 @@ function NavBar() {
           <span></span>
         </Navbar.Toggle>
         <Navbar.Collapse id="responsive-navbar-nav">
-          <Nav className="ms-auto" defaultActiveKey="#home">
-            <Nav.Item>
-              <Nav.Link
-                as={Link}
-                to="/resume"
-                onClick={() => updateExpanded(false)}
-              >
-                <CgFileDocument style={{ marginBottom: "2px" }} /> resume
-              </Nav.Link>
-            </Nav.Item>
-
+          <Nav className="ms-auto" >
+            <a target="_blank" style={{ textDecoration: "none",  color: "white"}} href="https://drive.google.com/file/d/15KgRwBdA4FwGlwu6vdUE6Y7242yXByLq/view?usp=sharing"><CgFileDocument style={{ marginBottom: "2px" }} /> resume</a>
           </Nav>
         </Navbar.Collapse>
       </Container>

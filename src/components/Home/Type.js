@@ -9,6 +9,7 @@ function Type() {
           "Full Stack Developer",
           "Building on Google Cloud Platform",
           "Practicing FinOps",
+          "Learning Martech"
         ],
         autoStart: true,
         loop: true,
