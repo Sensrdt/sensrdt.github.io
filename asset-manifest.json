@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c6a11c2.css",
+    "main.js": "/static/js/main.57257b4a.js",
+    "static/js/415.fc063c41.chunk.js": "/static/js/415.fc063c41.chunk.js",
+    "static/js/787.f6e65957.chunk.js": "/static/js/787.f6e65957.chunk.js",
+    "static/media/Sridip-Dutta-Resume-19072022.pdf": "/static/media/Sridip-Dutta-Resume-19072022.78d10a882e36ab018b89.pdf",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/undraw_code.svg": "/static/media/undraw_code.d03229ce607aa540eda66dcaae40971c.svg",
+    "static/media/undraw_stocks.svg": "/static/media/undraw_stocks.891b120fcc5c4883dadcaec8eebf2542.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.6c6a11c2.css.map": "/static/css/main.6c6a11c2.css.map",
+    "main.57257b4a.js.map": "/static/js/main.57257b4a.js.map",
+    "415.fc063c41.chunk.js.map": "/static/js/415.fc063c41.chunk.js.map",
+    "787.f6e65957.chunk.js.map": "/static/js/787.f6e65957.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c6a11c2.css",
+    "static/js/main.57257b4a.js"
+  ]
+}
